@@ -1,2 +1,1 @@
-# openhardwareventures
-Open Hardware Ventures
+#Open Hardware Ventures
