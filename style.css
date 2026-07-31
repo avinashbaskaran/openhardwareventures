@@ -70,7 +70,7 @@ header {
 }
 
 .hero-logo {
-    width: 260px;
+    width: 100%;
     max-width: 80%;
     margin-bottom: 45px;
 }
